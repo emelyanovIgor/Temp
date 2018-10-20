@@ -1,8 +1,2 @@
-# secret file
-secret.js
-
-# my logs folder
-logs/
-
-#package
-package.json
+#exceptions for "secret. *" files
+/homeWork/13.1/assets/secret.*

@@ -3,3 +3,6 @@ secret.js
 
 # my logs folder
 logs/
+
+#package
+package.json
